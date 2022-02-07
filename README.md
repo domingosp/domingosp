@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, seja bem-vindo. 👋
+ 
+  Meu nome é Domingos e sou estudante de Engenharia Elétrica.
+  
+  
 
 <!--
 **domingosp/domingosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
