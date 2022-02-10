@@ -1,6 +1,6 @@
-### Olá, seja bem-vindo. 👋
+### Olá, seja bem-vindo(a). 👋
  
-  Meu nome é Domingos e sou estudante de Engenharia Elétrica.
+  
   
   
 
