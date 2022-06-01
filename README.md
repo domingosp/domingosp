@@ -1,5 +1,6 @@
 <h3 align="center">👋 Hello! My name is Domingos</h3>
- 
+
+<p> 
 <a href="https://linkedin.com/in/domingospg">
   <img align="center" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
