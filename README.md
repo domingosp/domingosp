@@ -1,9 +1,4 @@
 <h3 align="center">👋 Hello! My name is Domingos</h3>
-
-<p align="center">
-<a href="https://twitter.com/nisdogom">
-  <img align="center" alt="Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
  
 <a href="https://linkedin.com/in/domingospg">
   <img align="center" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
