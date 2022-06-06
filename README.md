@@ -1,12 +1,13 @@
 <h3 align="center">👋 Hello! My name is Domingos</h3>
-
+<h3 align="center">
 <p> 
 <a href="https://linkedin.com/in/domingospg">
   <img align="center" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 </p>
+</h3>
 
--------------------------------------
+---------------------------------------------------------
 
 I'm an electrical engineering student and passionate about **Data Science** and **Machine Learning**. I've worked on ARM microcontroller programming with C in the past.
 
