@@ -4,6 +4,9 @@
 <a href="https://linkedin.com/in/domingospg">
   <img align="center" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
+<a href="https://peregodomingos.medium.com/">
+  <img align="center" alt="Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
+</a>
 </p>
 </h3>
 
